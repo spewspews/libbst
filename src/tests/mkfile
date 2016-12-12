@@ -6,6 +6,7 @@ TARG=\
 	compare\
 	llrbtest\
 	avltest\
-	oldavlcompare
+	oldavlcompare\
+	walktest
 
 </sys/src/cmd/mkmany

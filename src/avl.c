@@ -1,6 +1,6 @@
 #include <u.h>
 #include <libc.h>
-#include "bst.h"
+#include <bst.h>
 #include "bstimpl.h"
 
 /* See Knuth Volume 3, 6.2.3 */
